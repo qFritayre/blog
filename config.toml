@@ -2,3 +2,23 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme='terminal'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About me"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "projet"
+    name = "Project"
+    url = "/project/"
+    weight = 1
