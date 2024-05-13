@@ -1,6 +1,6 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://qfritayre.github.io/blog/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'qFritayre'
 theme='terminal'
 
 [menu]
