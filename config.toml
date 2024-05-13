@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'qFritayre'
 theme='terminal'
 
+[params]
+  themeColor = "blue"
+
 [menu]
 
   [[menu.main]]
